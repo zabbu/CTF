@@ -1,3 +1,3 @@
 <?php 
-echo 'test';
+print('Zabbu was here');
 ?>
